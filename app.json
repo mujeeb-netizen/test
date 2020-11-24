@@ -1,0 +1,14 @@
+{
+  "name": "AwesomeProject",
+  "displayName": "AwesomeProject",
+  "ios": {
+    "supportsTablet": true,
+    "bundleIdentifier": "com.theflipapp.flip",
+    "buildNumber": "2.0.0"
+  },
+  "android": {
+    "package": "com.theflipapp.flip",
+    "versionCode": 9,
+    "permissions": []
+  }
+}
